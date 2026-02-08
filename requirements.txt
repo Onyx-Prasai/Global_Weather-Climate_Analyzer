@@ -1,0 +1,9 @@
+pandas==1.5.3
+numpy==1.24.3
+statsmodels==0.13.5
+matplotlib==3.5.3
+ipywidgets==7.6.5
+xgboost==1.6.2
+jupyter==1.0.0
+notebook==6.5.4
+scikit-learn==1.1.3
