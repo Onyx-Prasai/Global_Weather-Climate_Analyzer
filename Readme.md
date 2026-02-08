@@ -40,4 +40,4 @@ Notes
 If you'd like, I can also add a `requirements.txt`, example outputs, or a short README section showing example predictions.
 
 License
-- No license is set. Tell me which license (e.g. MIT) if you want one added.
+- MIT licence.
