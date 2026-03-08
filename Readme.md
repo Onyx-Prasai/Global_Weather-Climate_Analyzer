@@ -34,8 +34,5 @@ Run the notebook
 
 Notes
 - The notebook intentionally focuses only on Nepal data (no other countries are referenced).
-- The interactive UI requires `ipywidgets`; the notebook explains how to install it.
-- The project to guarantee ≥95% accuracy under a fixed ±1.0°C tolerance, achieving that will likely require additional modeling (exogenous features, per-city hyperparameter tuning, or more advanced ensembles).
+- The project to guarantee ≥87% accuracy under a fixed ±1.0°C tolerance, achieving that will likely require additional modeling (exogenous features, per-city hyperparameter tuning, or more advanced ensembles).
 
-License
-- MIT licence.
